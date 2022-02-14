@@ -29,7 +29,7 @@ Further, you will update the logic with the following features:
 - On pasting something in the textarea, you validate the input to make sure it contains valid JSON data
 - We are expecting a json object that holds an n number of pairs of oldStyle and newStyle key/value pairs.
 - On clicking 'update styles', update all the old styles with the new styles for all elements on the current figma page.
-- show a success message and the number or nodes that got updated.
+- show a success message and the number of nodes that got updated.
 
 ### Submitting your assignment
 Once you are done, create a pull request and send me an email with a link to your pull request.
