@@ -1,5 +1,5 @@
 ![image](https://github.com/six7/style-swap/blob/main/coverart.png?raw=true)
-# Figma Plugin Basics
+# Assessment: Figma Plugin Basics
 The assignment has been design to assess the following skills:
 - Git basics and collaboration using fork and pull-requests.
 - Familiarising yourself with an existing code base
