@@ -1,7 +1,7 @@
 ![image](https://github.com/six7/style-swap/blob/main/coverart.png?raw=true)
 # Assessment: Figma Plugin Basics
-The assignment has been design to assess the following skills:
-- Git basics and collaboration using fork and pull-requests.
+The assignment has been designed to assess the following skills:
+- Git basics and collaboration using fork and pull-requests
 - Familiarising yourself with an existing code base
 - Making a contribution to an existing project
 - Documenting your work
@@ -31,5 +31,5 @@ Further, you will update the logic with the following features:
 - On clicking 'update styles', update all the old styles with the new styles for all elements on the current figma page.
 - show a success message and the number or nodes that got updated.
 
-### Submitting your assigment
+### Submitting your assignment
 Once you are done, create a pull request and send me an email with a link to your pull request.
